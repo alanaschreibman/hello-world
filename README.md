@@ -1,5 +1,5 @@
 # hello-world
 
-Hi!
+Hi-
 
 This is a test of my first repository. 
